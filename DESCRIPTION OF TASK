@@ -1,0 +1,7 @@
+testing firewall rule
+created a windows firewall and checked it's work
+created a firewall rule o block inbound traffic on port 23
+TEST COMMAND- telnet localhost 23
+connection failed : couldn't open it. Hence success.
+Conclusion: firewall rule is working 
+screenshots of work has been attached 
